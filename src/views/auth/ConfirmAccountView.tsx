@@ -57,7 +57,7 @@ export default function ConfirmAccountView() {
                     to='/auth/request-code'
                     className="text-center text-gray-300 font-normal"
                 >
-                    Solicitar un nuevo Código
+                    Solicitar un nuevo Código.
                 </Link>
             </nav>
 
