@@ -54,7 +54,7 @@ export default function NewPasswordToken({token, setToken, setIsValidToken} : Ne
                     to='/auth/forgot-password'
                     className="text-center text-gray-300 font-normal"
                 >
-                    Solicitar un nuevo Código
+                    Solicitar un nuevo Código.
                 </Link>
             </nav>
         </>
